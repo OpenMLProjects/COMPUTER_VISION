@@ -1,2 +1,2 @@
 # COMPUTER_VISION
-Contains all projects related to computer vision/image processing
+ This repository contains all projects related to computer vision/image processing
